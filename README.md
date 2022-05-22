@@ -21,7 +21,7 @@ Taking an existing website and refactoring the code to add accessibility feature
 
 ## Screenshot of Project
 
-![Screenshot of project webpage.](./assets/images/refactoring-final.jpg)
+![Screenshot of project webpage.](./assets/images/refactoring-screenshot.jpg)
 > **Note**: The webpage still looks aesthetically identical to how it appeared before the project.
 
 ---
